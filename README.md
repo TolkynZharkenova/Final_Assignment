@@ -1,2 +1,2 @@
 # Final_Assignment
-it's a markdown fike in this repository
+it's a markdown file in this repository
